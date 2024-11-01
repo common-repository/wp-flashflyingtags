@@ -1,0 +1,41 @@
+
+/*style for text on tag with blue background*/
+.tagTextBlue {
+	
+	font-family: "Impact";
+    font-size: 16;
+	color: #232323;
+
+}
+/*style for text on tag with red background*/
+.tagTextRed {
+	
+	font-family: "Calibri";
+    font-size: 16;
+	color: #CCCCCC;
+
+}
+/*style for text on tag with green background*/
+.tagTextGreen {
+	
+	font-family: "Impact";
+    font-size: 16;
+	color: #0C2C01;
+
+}
+/*style for text on tag with white background*/
+.tagTextWhite {
+	
+	font-family: "Impact";
+    font-size: 16;
+	color: #232323;
+
+}
+/*style for text on tag with black background*/
+.tagTextBlack {
+	
+	font-family: "Calibri";
+    font-size: 16;
+	color: #CCCCCC;
+
+}
